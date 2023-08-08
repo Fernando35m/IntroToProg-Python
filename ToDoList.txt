@@ -1,0 +1,4 @@
+Mow,Low
+Clean,High
+Grade,Medium
+Run,Low
